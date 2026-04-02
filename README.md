@@ -12,4 +12,3 @@ Used the following libraries.
     "redux": "^5.0.1",
     "zod": "^4.2.1"
 
-    P.S. Since the server itself comes from the training platform and I do not control it, the incoming data may change.
